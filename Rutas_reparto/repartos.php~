@@ -32,8 +32,8 @@ $cliente = new Google_Client();
 //mis identificadores
 $client_id='1018306128249-2rdh6blf5vfip9957g5mu2p5ej8r8qsc.apps.googleusercontent.com';
 $client_secret = 'PnnhEaVwPcnkNQYzzQIvwBWf';
-$urlRedirect = 'http://www.nataliajimenez.infenlaces.com/Rutas_reparto/repartos.php';
-$developerkey = 'AIzaSyAuaD-R1y9QHQ2nlxqBWsrLhkRX7YCqxdQ';
+$urlRedirect = 'http://localhost/Rutas_reparto/repartos.php';
+$developerkey = 'AIzaSyB5_cbPOao7JmO7rzFlhKOw0NTmJGNeFdo';
 
 // Y lo configuramos con los nuestros identificadores
 $cliente->setClientId($client_id);
